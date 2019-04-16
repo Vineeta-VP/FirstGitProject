@@ -6,7 +6,7 @@ import com.jcraft.jsch.Channel;
 import com.jcraft.jsch.ChannelExec;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.Session;
-// no update just to add to git as it not addede
+// no update just to add to git as it not added
 public class App 
 {
 	public static void main(String[] args) {
